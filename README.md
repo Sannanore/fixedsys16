@@ -1,5 +1,13 @@
 # Fixedsys (16)
 Font used in fallout games and MUSHclient now usable with windows console! Doesn't require any funky regex edits to install, just double click it, then select it in your console application and set size to 16.
-The font was originally authored by Darien Valentine @bathos and provided via a now-defunct site at fixedsysexcelsior.com, but was not selectable in windows console because it was lacking Panose monospace definition.
 
-The creator(s) of this content have released it to the public domain. For jurisdictions where this is not permitted, it is released under the terms of the Creative Commons Zero Dedication.
+Fixedsys 16:
+
+![изображение](https://github.com/Sannanore/fixedsys16/assets/55186919/43ecb3e9-930f-4373-96a3-0f1d8108e71c)
+
+Raster Fonts 8x12 for comparison:
+
+![изображение](https://github.com/Sannanore/fixedsys16/assets/55186919/3a21cc33-87a1-4131-9615-a33b73605857)
+
+
+The font was originally authored by Darien Valentine (@bathos) and called Fixedsys Excelsior, provided via a now-defunct site at fixedsysexcelsior.com, but was not selectable in windows console because it was lacking Panose monospace definition.
