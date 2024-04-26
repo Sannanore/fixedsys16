@@ -1,5 +1,5 @@
 # Fixedsys (16)
-Font used in fallout games and MUSHclient now usable with windows console! Doesn't require any funky regex edits to install, just double click it, then select it in your console application and set size to 16.
+Font used in terminals of Fallout 3 and MUSHclient now usable with windows console! Doesn't require any funky regex edits to install, just double click it, then select it in your console application and set size to 16.
 
 Fixedsys 16:
 
